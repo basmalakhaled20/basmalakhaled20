@@ -121,6 +121,7 @@ Exploratory Data Analysis on Netflix Movies & TV Shows.
 
 - Python
 - SQL
+- C++
 - --------------------------------------
 - ## 🤖 AI & Data Science
 - Machine Learning
