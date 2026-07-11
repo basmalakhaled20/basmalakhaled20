@@ -6,7 +6,7 @@ Machine Learning | Computer Vision | Data Engineering | Data Analysis
 
 --------------------------------
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
 Computer Science graduate specializing in Artificial Intelligence, passionate about developing intelligent systems and data-driven solutions. I enjoy working across Machine Learning, Computer Vision, NLP, Data Engineering, and Data Analytics using Python, SQL, Power BI, and modern AI technologies. I continuously improve my skills by building real-world projects and exploring advanced AI techniques, and I am currently seeking opportunities as an AI Engineer, Machine Learning Engineer, Data Engineer, or Data Analyst.
 --------------------------------
