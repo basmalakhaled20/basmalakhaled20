@@ -6,17 +6,9 @@ Machine Learning | Computer Vision | Data Engineering | Data Analysis
 
 --------------------------------
 
-About Me
+## 👩‍💻 About Me
 
-• AI Student
-• Passionate about Artificial Intelligence
-• Machine Learning Engineer
-• Computer Vision
-• Data Engineering
-• SQL
-• Power BI
-• Python
-
+Computer Science graduate specializing in Artificial Intelligence, passionate about developing intelligent systems and data-driven solutions. I enjoy working across Machine Learning, Computer Vision, NLP, Data Engineering, and Data Analytics using Python, SQL, Power BI, and modern AI technologies. I continuously improve my skills by building real-world projects and exploring advanced AI techniques, and I am currently seeking opportunities as an AI Engineer, Machine Learning Engineer, Data Engineer, or Data Analyst.
 --------------------------------
 
 Featured Projects
@@ -52,7 +44,7 @@ OpenCV
 YOLOv8
 Git
 GitHub
----------------------------------
+
 ## 🛠️ Languages & Tools
 
 <p align="center">
@@ -62,23 +54,13 @@ GitHub
 <p align="center">
 <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" />
 </p>
-----------------------------------------
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </p>
----------------------------------------
-## 📊 GitHub Stats
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=basmalakhaled20&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basmalakhaled20&layout=compact&theme=tokyonight"/>
-
-</p>
---------------------------------------
 # 🚀 Featured Projects
 
 ## ⚡ AI-Based Electrical Fault Detection System
