@@ -52,20 +52,6 @@ OpenCV
 YOLOv8
 Git
 GitHub
-
---------------------------------
-
-GitHub Stats
-
-Top Languages
-
---------------------------------
-
-Let's Connect
-
-LinkedIn
-
-Email
 ---------------------------------
 ## 🛠️ Languages & Tools
 
